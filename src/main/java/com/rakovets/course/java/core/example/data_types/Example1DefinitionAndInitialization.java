@@ -12,7 +12,7 @@ public class Example1DefinitionAndInitialization {
         System.out.println(y); // 10
 
         // Compile Error
-        int z;
+//        int z;
 //        System.out.println(z); // java: variable x might not have been initialized
     }
 }
